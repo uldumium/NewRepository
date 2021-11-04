@@ -1,0 +1,5 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\Uldumium\source\repos\ConsoleApplication7\ConsoleApplication7\Function.h(48,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Uldumium\source\repos\ConsoleApplication7\ConsoleApplication7\Function.h(194,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Uldumium\source\repos\ConsoleApplication7\ConsoleApplication7\Function.h(363,22): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication7.vcxproj -> C:\Users\Uldumium\source\repos\ConsoleApplication7\Debug\ConsoleApplication7.exe
